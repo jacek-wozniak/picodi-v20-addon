@@ -1,0 +1,77 @@
+{
+  "cockpit": {
+    "authorization": "477c21b9ee5d27c5acf4e01ea5ca7083ab6943615e38174f56c0dab0d546631f",
+    "protocol": "http",
+    "hosts": {
+      "ap1": {
+        "domain": "api-ap1-a.itg.picodi.com",
+        "locales": [
+          "au",
+          "hk",
+          "id",
+          "in",
+          "my",
+          "nz",
+          "ph",
+          "pk",
+          "sa",
+          "sg",
+          "th",
+          "vn"
+        ]
+      },
+      "ec1": {
+        "domain": "api-ec1-a.itg.picodi.com",
+        "locales": [
+          "at",
+          "by",
+          "ch",
+          "cz",
+          "de",
+          "fi",
+          "hu",
+          "kz",
+          "pl",
+          "ro",
+          "ru",
+          "sk",
+          "tr",
+          "ua"
+        ]
+      },
+      "ew1": {
+        "domain": "api-ew1-a.itg.picodi.com",
+        "locales": [
+          "ae",
+          "es",
+          "gr",
+          "ie",
+          "it",
+          "ng",
+          "pt",
+          "se",
+          "uk",
+          "za"
+        ]
+      },
+      "sa1": {
+        "domain": "api-sa1-a.itg.picodi.com",
+        "locales": [
+          "ar",
+          "br",
+          "cl",
+          "co",
+          "mx",
+          "pe"
+        ]
+      },
+      "us1": {
+        "domain": "api-us1-a.itg.picodi.com",
+        "locales": [
+          "ca",
+          "us"
+        ]
+      }
+    }
+  }
+}

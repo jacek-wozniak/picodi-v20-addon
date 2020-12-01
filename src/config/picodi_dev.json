@@ -1,0 +1,14 @@
+{
+  "picodi": {
+    "urls": [
+      "http://www.picodi.com/",
+      "https://www.picodi.com/",
+      "http://rc.picodi.com/",
+      "https://rc.picodi.com/",
+      "http://itg.picodi.com/",
+      "https://itg.picodi.com/",
+      "http://picodi.vagrant/",
+      "http://picodi.vagrant.picodi.net/"
+    ]
+  }
+}

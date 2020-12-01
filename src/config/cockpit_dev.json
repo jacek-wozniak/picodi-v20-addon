@@ -1,0 +1,57 @@
+{
+  "cockpit": {
+    "authorization": "477c21b9ee5d27c5acf4e01ea5ca7083ab6943615e38174f56c0dab0d546631f",
+    "protocol": "http",
+    "hosts": {
+      "all": {
+        "domain": "cockpit.vagrant.picodi.net/app_dev.php",
+        "locales": [
+          "ae",
+          "ar",
+          "at",
+          "au",
+          "br",
+          "by",
+          "ca",
+          "ch",
+          "cl",
+          "co",
+          "cz",
+          "de",
+          "es",
+          "fi",
+          "gr",
+          "hk",
+          "hu",
+          "id",
+          "ie",
+          "in",
+          "it",
+          "kz",
+          "mx",
+          "my",
+          "nz",
+          "ng",
+          "pe",
+          "ph",
+          "pk",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sa",
+          "se",
+          "sg",
+          "sk",
+          "th",
+          "tr",
+          "ua",
+          "us",
+          "uk",
+          "vn",
+          "za"
+        ]
+      }
+    }
+  }
+}
